@@ -1,2 +1,3 @@
-# web-static-on-vercel
-web-static-on-vercel
+# staticPages
+1. github pages
+2. 
